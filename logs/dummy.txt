@@ -1,1 +1,1 @@
-En este directorio se guardan los logs de flume.
+En este directorio se guardan los logs.
